@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/pro1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/pro2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/instruction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/package-info.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/ecnu/teisei/mips/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/instruction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/package-info.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/mips/utils" charset="UTF-8" />
+  </component>
+</project>

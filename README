@@ -1,0 +1,5 @@
+(1)simulate a MIPS CPU to decode and run a program.
+Main method is edu.ecnu.teisei.mips.sys.Main.main(String args[])
+
+(2)test whether two text file are literally the same.
+Main method is edu.ecnu.teisei.mips.test.MainTest.main(String args[])
